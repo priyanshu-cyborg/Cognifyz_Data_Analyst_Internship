@@ -40,7 +40,7 @@ This repository contains the work I completed during my Data Analyst Internship 
 Special thanks to **Cognifyz Technologies** and all the mentors and coordinators for their support, guidance, and opportunity.
 
 ## 🔗 Connect With Me
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** https://www.linkedin.com/in/priyanshu-sharma-70a835320/
 - **GitHub:** https://github.com/priyanshu-cyborg
 - **Email:** priyanshu2807.nbj@gmail.com
 
