@@ -34,7 +34,7 @@ This repository contains the work I completed during my Data Analyst Internship 
    Automated calculations and insights using formulas and pivot tables.
 
 ## 📜 Certificate
-> 🏅 [Add link to certificate or upload a copy]
+> 🏅 https://drive.google.com/file/d/1l_PO8Ts73HGN4T8G5iNWoVPnXhzFw57I/view?usp=drive_link
 
 ## 🙏 Acknowledgements
 Special thanks to **Cognifyz Technologies** and all the mentors and coordinators for their support, guidance, and opportunity.
